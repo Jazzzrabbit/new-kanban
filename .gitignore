@@ -4,4 +4,6 @@ dist
 node_modules
 *.code-workspace
 .DS_Store
+node_modules
+*.code-workspace
 src/.DS_Store
